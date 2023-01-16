@@ -1,0 +1,9 @@
+function Main.main 4
+push local 1
+push local 2
+call Math.multiply 2
+push local 3
+call Math.multiply 2
+pop local 0
+push constant 0
+return

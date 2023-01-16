@@ -1,0 +1,9 @@
+class Main {
+	function void main(){
+		var int x,y,z,s;
+
+		let x = (y * z)  * s;
+
+		return;
+	}
+}
